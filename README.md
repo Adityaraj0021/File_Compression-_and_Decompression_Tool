@@ -67,8 +67,8 @@ FileCompressionTool
 ├── src
 │   ├── main
 │   │   ├── java
-│   │   │   ├── com
-│   │   │   │   └── filecompression
+│   │   │   ├── org
+│   │   │   │   └── example
 │   │   │   │       ├── Compressor.java        // Handles file compression
 │   │   │   │       ├── Decompressor.java      // Handles file decompression
 │   │   │   │       ├── FileUtils.java         // Utility functions for file handling
